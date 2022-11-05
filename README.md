@@ -1,6 +1,11 @@
-### Hi there 👋 My Name is Jonathan Fong
+### Hello there, My name is Jonathan Fong
 
-test test test
+Former Mechanical Engineer turned Software developer. Passionate about desigining products and features that the end user will love. Enjoys critical thinking and solving problems, great communicator and team player.
+_____________________________________________________________________________________________________________________________________________________
+- 🔭 I’m currently working on Hideout Cafe website
+- 🌱 I’m currently learning React.js and VueJs
+- 📫 Email me: jonathan1218@gmail.com
+
 <!--
 **Jfong1218/Jfong1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
