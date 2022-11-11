@@ -7,6 +7,7 @@ Former Mechanical Engineer turned Software developer. Passionate about desiginin
 Connect with me:</br>
 <a href="https://www.linkedin.com/in/jonathan-fong-9a9b80148/"><img height="32" width="32" src="https://user-images.githubusercontent.com/109251936/200982277-ce033c2e-289c-437b-bc69-6c285ddc77ca.png" /></a>
 <a href="https://www.github.com/jfong1218"><img height="32" width="32" src="https://user-images.githubusercontent.com/109251936/200982469-b2b25cdb-f9b7-48a7-a54b-3739d7e73cbc.png" /></a>
+<a href="https://leetcode.com/jonathan1218/"><img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" /></a>
 _____________________________________________________________________________________________________________________________________________________
 - 🔭 I’m currently working on Hideout Cafe website
 - 🌱 I’m currently learning React.js and VueJs
