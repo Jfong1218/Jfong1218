@@ -12,7 +12,7 @@ ________________________________________________________________________________
 - 🔭 I’m currently working on Hideout Cafe website
 - 🌱 I’m currently learning React.js and VueJs
 - 📫 Email me: jonathan1218@gmail.com
-- 😄 Fun Fact: I am a coffee-holic and loves sci-f/fantasy movies
+- 😄 Fun Fact: I am a coffee-holic and loves sci-fi/fantasy movies
 
 Languages:</br>
 <img height="32" width="32" src="https://user-images.githubusercontent.com/109251936/200984837-909bac3c-7f4d-48f9-ac2d-7655ff7cf74e.png"/>
