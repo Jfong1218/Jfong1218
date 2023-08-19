@@ -1,7 +1,7 @@
 [![Header](https://github.com/Jfong1218/Jfong1218/blob/main/convenience_store_by_klegs_dbvg1rq.jpg "Header")](https://github.com/Jfong1218)
 
 <h1 align="center">Hi 👋, I'm Jonathan Fong</h1>
-<h3 align="center">Former Mechanical Engineer turned Software developer. Passionate about desigining products and features that the end user will love. Enjoys critical thinking and solving problems, great communicator and team player.r</h3>
+<h3 align="center">Former Mechanical Engineer turned Software developer. Passionate about desigining products and features that the end user will love. Enjoys critical thinking and solving problems, great communicator and team player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfong1218&label=Profile%20views&color=0e75b6&style=flat" alt="jfong1218" /> </p>
 
