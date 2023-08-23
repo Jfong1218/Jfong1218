@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jfong1218" alt="jfong1218" /></a> </p>
 
-- 🔭 I’m currently working on **HideOut Cafe Website**
+- 🔭 I’m currently working on Hack for LA Website
 
 - 🌱 I’m currently learning **React.JS, Vue.JS, and MaterialUI**
 
